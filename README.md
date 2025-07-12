@@ -1,1 +1,1 @@
-This is the source code to Sean Maroofi's public academic website: https://seanmaroofi.info/. Page template is a fork from https://jonbarron.info.
+This is the source code to Sean Maroofi's public academic website: https://sm20598.github.io/ Page template is a fork from https://jonbarron.info.
