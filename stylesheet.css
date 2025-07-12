@@ -124,6 +124,18 @@ h2 {
   -webkit-transition: opacity .2s ease-in-out;
 }
 
+.two_vid {
+  width: 160px;
+  height: 160px;
+  position: relative;
+}
+
+.two_img {
+  width: 160px;
+  height: 160px;
+  position: absolute;
+}
+
 .fade {
   transition: opacity .2s ease-in-out;
   -moz-transition: opacity .2s ease-in-out;
@@ -131,7 +143,18 @@ h2 {
 }
 
 span.highlight {
-  background-color: #ffffd0;
+  background-color: #F8F398;
+}
+
+span.review {
+  background: #C5D3E8;
+}
+
+span.ongoing {
+  background-color: #FFF8DE;
+}
+span.preparation {
+  background-color: #FFF8DE;
 }
 
 .colored-box {
